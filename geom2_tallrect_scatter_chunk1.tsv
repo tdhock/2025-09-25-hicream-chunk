@@ -1,0 +1,26 @@
+xmin	xmax	key	clickSelects.variable	clickSelects.value	showSelected.variable	showSelected.value	group
+-136	364	1	nb_clust	114	nb_clust	114	1
+364	864	614 114	nb_clust	614	nb_clust	114	19
+864	1364	1114 114	nb_clust	1114	nb_clust	114	2
+1364	1864	1614 114	nb_clust	1614	nb_clust	114	11
+1864	2364	2114 114	nb_clust	2114	nb_clust	114	15
+-136	364	114 614	nb_clust	114	nb_clust	614	9
+364	864	1	nb_clust	614	nb_clust	614	1
+864	1364	1114 614	nb_clust	1114	nb_clust	614	5
+1364	1864	1614 614	nb_clust	1614	nb_clust	614	13
+1864	2364	2114 614	nb_clust	2114	nb_clust	614	17
+-136	364	114 1114	nb_clust	114	nb_clust	1114	6
+364	864	614 1114	nb_clust	614	nb_clust	1114	18
+864	1364	1	nb_clust	1114	nb_clust	1114	1
+1364	1864	1614 1114	nb_clust	1614	nb_clust	1114	10
+1864	2364	2114 1114	nb_clust	2114	nb_clust	1114	14
+-136	364	114 1614	nb_clust	114	nb_clust	1614	7
+364	864	614 1614	nb_clust	614	nb_clust	1614	20
+864	1364	1114 1614	nb_clust	1114	nb_clust	1614	3
+1364	1864	1	nb_clust	1614	nb_clust	1614	1
+1864	2364	2114 1614	nb_clust	2114	nb_clust	1614	16
+-136	364	114 2114	nb_clust	114	nb_clust	2114	8
+364	864	614 2114	nb_clust	614	nb_clust	2114	21
+864	1364	1114 2114	nb_clust	1114	nb_clust	2114	4
+1364	1864	1614 2114	nb_clust	1614	nb_clust	2114	12
+1864	2364	1	nb_clust	2114	nb_clust	2114	1
