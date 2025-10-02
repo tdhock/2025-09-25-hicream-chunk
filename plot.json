@@ -524,7 +524,7 @@
 "span": {
  "rowspan": null,
 "colspan": null,
-"last_in_row": null 
+"last_in_row": true 
 },
 "geoms": [
  "geom3_polygon_hic" 
@@ -722,7 +722,7 @@
 },
 "span": {
  "rowspan": null,
-"colspan": null,
+"colspan":        2,
 "last_in_row": null 
 },
 "geoms": [
@@ -731,5 +731,5 @@
 } 
 },
 "source": "https://github.com/tdhock/hicream-viz/blob/main/example_animint2_hicream/plot_2025-09-25.R",
-"title": "Hicream Exploration" 
+"title": "Hicream Exploration, five TSV files for polygons" 
 }
